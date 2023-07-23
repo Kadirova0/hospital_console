@@ -1,0 +1,17 @@
+C:\Users\fatim\source\repos\Hospital_console\Hospital_console\bin\Debug\net6.0\Hospital_console.exe
+C:\Users\fatim\source\repos\Hospital_console\Hospital_console\bin\Debug\net6.0\Hospital_console.deps.json
+C:\Users\fatim\source\repos\Hospital_console\Hospital_console\bin\Debug\net6.0\Hospital_console.runtimeconfig.json
+C:\Users\fatim\source\repos\Hospital_console\Hospital_console\bin\Debug\net6.0\Hospital_console.dll
+C:\Users\fatim\source\repos\Hospital_console\Hospital_console\bin\Debug\net6.0\Hospital_console.pdb
+C:\Users\fatim\source\repos\Hospital_console\Hospital_console\obj\Debug\net6.0\Hospital_console.csproj.AssemblyReference.cache
+C:\Users\fatim\source\repos\Hospital_console\Hospital_console\obj\Debug\net6.0\Hospital_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatim\source\repos\Hospital_console\Hospital_console\obj\Debug\net6.0\Hospital_console.AssemblyInfoInputs.cache
+C:\Users\fatim\source\repos\Hospital_console\Hospital_console\obj\Debug\net6.0\Hospital_console.AssemblyInfo.cs
+C:\Users\fatim\source\repos\Hospital_console\Hospital_console\obj\Debug\net6.0\Hospital_console.csproj.CoreCompileInputs.cache
+C:\Users\fatim\source\repos\Hospital_console\Hospital_console\obj\Debug\net6.0\Hospital_console.dll
+C:\Users\fatim\source\repos\Hospital_console\Hospital_console\obj\Debug\net6.0\refint\Hospital_console.dll
+C:\Users\fatim\source\repos\Hospital_console\Hospital_console\obj\Debug\net6.0\Hospital_console.pdb
+C:\Users\fatim\source\repos\Hospital_console\Hospital_console\obj\Debug\net6.0\Hospital_console.genruntimeconfig.cache
+C:\Users\fatim\source\repos\Hospital_console\Hospital_console\obj\Debug\net6.0\ref\Hospital_console.dll
+C:\Users\fatim\source\repos\Hospital_console\Hospital_console\bin\Debug\net6.0\ConsoleTables.dll
+C:\Users\fatim\source\repos\Hospital_console\Hospital_console\obj\Debug\net6.0\Hospital_console.csproj.CopyComplete
